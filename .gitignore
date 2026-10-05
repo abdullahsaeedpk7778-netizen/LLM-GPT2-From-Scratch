@@ -1,0 +1,28 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Large model files
+model.path
+gpt2/
+
+# Other model/checkpoint files
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# Archives
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
